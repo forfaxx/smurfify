@@ -1,4 +1,4 @@
-# 🧑‍💻 smurfify.py 💙
+# 💙 smurfify.py
 
 Smurfify text with joyful linguistic nonsense. Inspired by the wildcard grammar of Peyo’s *Smurfs*, this script replaces common verbs, nouns, adjectives, and exclamations with forms of **smurf** (e.g. `smurf`, `smurfy`, `Smurf!`). It’s part toy, part beginner’s Python exercise, and just useful enough to sneak into demos or lighten up shell pipelines.
 
@@ -6,7 +6,7 @@ Smurfify text with joyful linguistic nonsense. Inspired by the wildcard grammar 
 - Replace common words with smurf-language equivalents  
 - Preserve capitalization, tense, and plurality (inflection-aware)  
 - Works with **arguments**, **stdin pipes**, **files**, or an interactive **REPL**  
-- 🎲 Optional chaos mode: random smurfification for unlisted words  
+- Optional chaos mode: random smurfification for unlisted words  
 - Expanded word lists (tech + everyday vocab)  
 
 ---
@@ -79,4 +79,4 @@ MIT — have fun, remix it, and stay smurfy.
 
 ##  🌐 Website
 
-> 📖 Want more context? See the full write-up on [Adminjitsu](https://adminjitsu.com/posts/smurfify/) and for a step-by-step guide to Dockerizing Smurfify (totally essential) be sure to check [Dockerizing a Python Script](https://adminjitsu.com/posts/dockerize-a-script/).
+> Want more context? See the full write-up on [Adminjitsu](https://adminjitsu.com/posts/smurfify/) and for a step-by-step guide to Dockerizing Smurfify (totally essential) be sure to check [Dockerizing a Python Script](https://adminjitsu.com/posts/dockerize-a-script/).
